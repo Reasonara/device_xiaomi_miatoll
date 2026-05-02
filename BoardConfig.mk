@@ -188,4 +188,4 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 include vendor/xiaomi/miatoll/BoardConfigVendor.mk
 
 # Miui-Camera
--include vendor/xiaomi/miuicamera-miatoll/BoardConfigMiuiCamera.mk
+-include device/xiaomi/miuicamera-miatoll/BoardConfigMiuiCamera.mk
