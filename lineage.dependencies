@@ -22,11 +22,5 @@
     "target_path": "hardware/dolby",
     "remote": "github-non-los",
     "branch": "16.2"
-  },
-  {
-    "repository": "arshad-jamil33/android_hardware_sony_timekeep",
-    "target_path": "hardware/timekeep",
-    "remote": "github-non-los",
-    "branch": "16.2"
   }
 ]
